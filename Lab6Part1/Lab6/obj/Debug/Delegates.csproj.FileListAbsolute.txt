@@ -1,0 +1,4 @@
+C:\BKIT\Lab6Part1\Lab6\bin\Debug\Lab6.exe
+C:\BKIT\Lab6Part1\Lab6\bin\Debug\Lab6.pdb
+C:\BKIT\Lab6Part1\Lab6\obj\Debug\Lab6.exe
+C:\BKIT\Lab6Part1\Lab6\obj\Debug\Lab6.pdb

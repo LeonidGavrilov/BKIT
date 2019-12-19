@@ -1,0 +1,26 @@
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe.config
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\bin\Debug\Lab3.pdb
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.exe
+F:\Универ\БКИТ\Лабы по курсу БКИТ\Lab3\Lab3\obj\Debug\Lab3.pdb
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\bin\Debug\Lab3.exe.config
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\bin\Debug\Lab3.exe
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\bin\Debug\Lab3.pdb
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\obj\Debug\Lab3.exe
+F:\_\БКИТ\Лабы и отчеты\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Prog\3_Semestr_(BKIT)\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\BKIT\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\BKIT\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\BKIT\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\BKIT\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\BKIT\Lab3\Lab3\obj\Debug\Lab3.pdb
